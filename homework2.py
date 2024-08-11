@@ -7,3 +7,4 @@ print(df)
 group = df.groupby('City')['Salary'].mean()
 
 print(group)
+
